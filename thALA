@@ -1,0 +1,8 @@
+V= "VIDA"
+M= "MUYARCHI"
+THALA=(V+M)
+PRINT(THALA)
+
+
+
+
