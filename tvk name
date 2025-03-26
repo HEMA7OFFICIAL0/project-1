@@ -1,4 +1,5 @@
 a="t"
 b="v"
-c"k"
-print(a+b+c)
+c="k"
+VIJAY(a+b+c)
+PRINT( VIJAY)
