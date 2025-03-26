@@ -1,0 +1,4 @@
+a="t"
+b="v"
+c"k"
+print(a+b+c)
